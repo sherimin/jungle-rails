@@ -1,0 +1,2 @@
+class Jungleuser < ApplicationRecord
+end
